@@ -3,13 +3,11 @@
     'Qual o básico da Matemática?',
     'Adição, subtração, multiplicação e divisão'
 )
-
  criaCartao(
     'Matematica',
     'Qual é a questão mais difícil de Matemática?',
     'A hipótese de Riemann'
 )
-
  criaCartao(
     'Matematica',
     'Qual é o maior número do mundo?',
