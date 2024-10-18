@@ -21,3 +21,9 @@ footer{
     text-align: center;
     
 }
+
+#container{
+    padding: 4rem;
+    display: flex;
+    gap: 3rem;
+}
